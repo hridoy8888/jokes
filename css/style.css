@@ -1,0 +1,11 @@
+section.mainbox{
+    background-image: linear-gradient(to right, #fdab37 , #fdc34e);
+    border: 1px solid black;
+    /* width: 95%; */
+}
+.jokeBox{
+    width: 90%;
+    margin-top: 3rem;
+    background-color: #f9f4ebf6;
+    border: 1px solid black;
+}
