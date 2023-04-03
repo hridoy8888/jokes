@@ -48,20 +48,6 @@ section.mainbox{
     opacity: 0.2;
     transform: rotate(25deg);
 }
-.jokeBox select{
-    width: 8rem;
-    height: 2rem;
-    border: none;
-    background-color: #E2711D;
-    color: #f9f4ebf6;
-}
-.jokeBox input{
-    width: 8rem;
-    height: 2rem;
-    border: none;
-    background-color: #E2711D;
-    color: #f9f4ebf6;
-}
 .jokeBox .jokeDiv{
     height: 30vh;
     width: 80vw;
